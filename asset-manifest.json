@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Signup-form-react-contest-1/static/css/main.ef93079b.css",
+    "main.js": "/Signup-form-react-contest-1/static/js/main.1c0190d1.js",
+    "index.html": "/Signup-form-react-contest-1/index.html",
+    "main.ef93079b.css.map": "/Signup-form-react-contest-1/static/css/main.ef93079b.css.map",
+    "main.1c0190d1.js.map": "/Signup-form-react-contest-1/static/js/main.1c0190d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef93079b.css",
+    "static/js/main.1c0190d1.js"
+  ]
+}
